@@ -33,3 +33,4 @@ public class ArticleInfo {
 		this.pub_date = pub_date;
 	}
 }
+//This is for ArticleInfo
